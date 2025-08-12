@@ -1,6 +1,6 @@
 
 {
-  "name": "Stacks-Web3-Workshop-tests",
+  "name": "defi-stacking-tests",
   "version": "1.0.0",
   "description": "Run unit tests on this project.",
   "type": "module",

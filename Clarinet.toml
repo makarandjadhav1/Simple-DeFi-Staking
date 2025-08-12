@@ -1,12 +1,12 @@
 [project]
-name = 'Stacks-Web3-Workshop'
+name = 'defi-stacking'
 description = ''
 authors = []
 telemetry = true
-cache_dir = './.cache'
+cache_dir = '.\.cache'
 requirements = []
-[contracts.Simple-DeFi-Staking]
-path = 'contracts/Simple-DeFi-Staking.clar'
+[contracts.first_contract]
+path = 'contracts/first_contract.clar'
 clarity_version = 3
 epoch = 'latest'
 [repl.analysis]
